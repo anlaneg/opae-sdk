@@ -209,6 +209,10 @@ cscope.po.out
 # Studio Code
 .vscode/
 
+.cproject
+.project
+.settings/
+
 # Idea
 .idea/
 cmake-build-debug/
